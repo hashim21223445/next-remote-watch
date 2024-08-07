@@ -7,7 +7,7 @@
     "next-remote-watch": "./bin/next-remote-watch"
   },
   "dependencies": {
-    "chalk": "^4.0.0",
+    "chalk": "^4.1.2",
     "chokidar": "^3.4.0",
     "commander": "^5.0.0",
     "express": "^4.19.2"
